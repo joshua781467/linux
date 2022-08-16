@@ -6,3 +6,5 @@ if restart == 'no':
 	exit()
 else:
 	os.system("systemctl poweroff")
+
+aaaaaaaaaaaa
